@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = michaud.louis@yahoo.fr
+	name = Louis Michaud
